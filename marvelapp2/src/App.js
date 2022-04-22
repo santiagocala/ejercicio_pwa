@@ -6,7 +6,7 @@ import Characters from './components/Characters'
 function App() {
   return (
     <div className="App">
-      <h1>Hola como van</h1>
+      <h1>MARVEL Characters</h1>
       <Characters/> 
     </div>
   );
